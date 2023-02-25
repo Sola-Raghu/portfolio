@@ -1,0 +1,90 @@
+.calbody{
+    background-color:antiquewhite;
+}
+.head{
+    text-align: center;
+    color: cadetblue;
+    font-size: 50px;
+}
+.calcicontainer{
+    background-color: blue;
+    height: 640px;
+    width: 600px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-left: 460px;
+    border-radius: 10px;
+}
+.display{
+    height: 100px;
+    background-color:white;
+    margin-left: 9px;
+    margin-right: 10px;
+}
+.topdisplay input{
+    height: 44px;
+    width: 99%;
+    font-size: 30px;
+    border-bottom: 1px solid blue;
+}
+.bottomdisplay input{
+    height: 44px;
+    width: 99%;
+    font-size: 30px;
+}
+.keys{
+    padding: 10px;
+}
+.firstrow{
+    display: flex;
+}
+.secondrow{
+    display: flex;
+}
+.thirdrow{
+    display:flex;
+}
+.fourrow{
+    display:flex;
+}
+.fiverow{
+    display: flex;
+    margin-top: -98px;
+}
+.zero input{
+    width: 150px;
+}
+.sub input{
+    background-color: burlywood;
+}
+.equal input{
+    height: 200px;
+    background-color: yellow;
+}
+.add input{
+    background-color:darkcyan;
+}
+.mul input{
+    background-color: cornflowerblue;
+}
+.divi input{
+    background-color: chartreuse;
+}
+.mod input{
+    background-color: goldenrod;
+}
+.delte input{
+    background-color: red;
+}
+.st input{
+    font-size: 50px;
+    width: 120px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+#back{
+    margin-left: 20px;
+    border-radius: 10px;
+}
