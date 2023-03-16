@@ -104,7 +104,7 @@ label.raghu{
     }
     #check:checked ~ ul{
         left: 0;
-        height: 60vh;
+        height: 67vh;
     }
 }
 .raghu{
@@ -799,17 +799,17 @@ main.row{
 }
 @media (max-width:500px) {
     .menu{
-        margin-top: -190px;
+        margin-top: -350px;
     }
     footer{
-        margin-top: -80px;
+        margin-top: -320px;
     }
     .footer{
         padding-left: 50px;
-        height: 200vh;
+        height: 180vh;
     }
     .wor{
-        margin-top: -170px;
+        margin-top: -270px;
     }
 }
 /* .col-md-4 li a {
