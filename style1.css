@@ -104,7 +104,7 @@ label.raghu{
     }
     #check:checked ~ ul{
         left: 0;
-        height: 67vh;
+        height: 57vh;
     }
 }
 .raghu{
